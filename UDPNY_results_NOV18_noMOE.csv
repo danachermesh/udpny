@@ -21,8 +21,8 @@ GEOID,Typology
 34017001300,LI - Not Losing Low-Income Households
 34017004900,LI - Not Losing Low-Income Households
 34017011300,LI - Not Losing Low-Income Households
-34017015600,LI - At Risk of Gentrification
-34017016000,LI - At Risk of Gentrification
+34017015600,LI - Not Losing Low-Income Households
+34017016000,LI - Not Losing Low-Income Households
 34017017300,LI - Not Losing Low-Income Households
 34017018800,MHI - At Risk of Exclusion
 34017019300,MHI - Advanced Gentrification
@@ -56,7 +56,7 @@ GEOID,Typology
 34035053105,LI - Not Losing Low-Income Households
 34037373600,LI - Not Losing Low-Income Households
 34039030200,LI - Not Losing Low-Income Households
-34039030400,LI - At Risk of Gentrification
+34039030400,LI - Not Losing Low-Income Households
 34039035600,MHI - Not Losing Low-Income Households
 34039036800,MHI - At Risk of Exclusion
 34039038900,LI - Not Losing Low-Income Households
@@ -124,7 +124,7 @@ GEOID,Typology
 34039035900,LI - Not Losing Low-Income Households
 34013006200,LI - Not Losing Low-Income Households
 34013006900,LI - Ongoing Displacement of Low- Income Households
-34013007700,LI - At Risk of Gentrification
+34013007700,LI - Not Losing Low-Income Households
 34013011500,LI - Not Losing Low-Income Households
 34013013000,LI - Not Losing Low-Income Households
 34013013500,MHI - Displacement of LI hh - Ongoing Exclusion
@@ -142,15 +142,15 @@ GEOID,Typology
 34017003500,MHI - At Risk of Exclusion
 34017004700,LI - Ongoing Gentrification
 34017006200,LI - Not Losing Low-Income Households
-34017010600,LI - At Risk of Gentrification
-34017011100,LI - At Risk of Gentrification
+34017010600,LI - Not Losing Low-Income Households
+34017011100,LI - Not Losing Low-Income Households
 34017013000,LI - Not Losing Low-Income Households
 34017013800,MHI - Advanced Gentrification
 34017014200,LI - Not Losing Low-Income Households
 34017014900,LI - Not Losing Low-Income Households
 34017015700,LI - At Risk of Gentrification
 34017016900,LI - Not Losing Low-Income Households
-34017017400,LI - At Risk of Gentrification
+34017017400,LI - Not Losing Low-Income Households
 34039038800,LI - Not Losing Low-Income Households
 34039039500,LI - Not Losing Low-Income Households
 34017018100,MHI - At Risk of Exclusion
@@ -202,7 +202,7 @@ GEOID,Typology
 34017013300,MHI - Not Losing Low-Income Households
 34025806000,LI - Not Losing Low-Income Households
 34027042200,MHI - At Risk of Exclusion
-34013004100,LI - At Risk of Gentrification
+34013004100,LI - Not Losing Low-Income Households
 34023005500,LI - Not Losing Low-Income Households
 34017005300,LI - Not Losing Low-Income Households
 34017014700,LI - Not Losing Low-Income Households
@@ -224,13 +224,13 @@ GEOID,Typology
 34013009000,LI - Ongoing Displacement of Low- Income Households
 34013013800,MHI - At Risk of Exclusion
 34017001100,LI - Ongoing Gentrification
-34013007300,LI - At Risk of Gentrification
+34013007300,LI - Not Losing Low-Income Households
 34013010800,LI - Not Losing Low-Income Households
 34013011900,LI - Not Losing Low-Income Households
 34013017000,MHI - At Risk of Exclusion
 34013019300,MHI - At Risk of Exclusion
 34017001000,MHI - Not Losing Low-Income Households
-34017002700,LI - At Risk of Gentrification
+34017002700,LI - Not Losing Low-Income Households
 34017004300,LI - Ongoing Gentrification
 34017005801,LI - Not Losing Low-Income Households
 34017017600,LI - Not Losing Low-Income Households
@@ -274,7 +274,7 @@ GEOID,Typology
 34013004801,LI - Not Losing Low-Income Households
 34013004900,LI - Not Losing Low-Income Households
 34013006700,LI - Not Losing Low-Income Households
-34013007000,LI - At Risk of Gentrification
+34013007000,LI - Not Losing Low-Income Households
 34013007200,MHI - Displacement of LI hh - Ongoing Exclusion
 34013007501,LI - Not Losing Low-Income Households
 34013008100,LI - Not Losing Low-Income Households
@@ -371,7 +371,7 @@ GEOID,Typology
 34017013900,MHI - Not Losing Low-Income Households
 34017014300,LI - Not Losing Low-Income Households
 34017015100,LI - Ongoing Displacement of Low- Income Households
-34017016800,LI - At Risk of Gentrification
+34017016800,LI - Not Losing Low-Income Households
 34017017000,LI - Not Losing Low-Income Households
 34017017800,LI - Not Losing Low-Income Households
 34029736002,MHI - Not Losing Low-Income Households
@@ -598,7 +598,7 @@ GEOID,Typology
 34031143400,MHI - Displacement of LI hh - Ongoing Exclusion
 34031175900,LI - Ongoing Displacement of Low- Income Households
 34031181100,LI - Ongoing Gentrification
-34031181300,LI - At Risk of Gentrification
+34031181300,LI - Not Losing Low-Income Households
 34031181702,LI - Not Losing Low-Income Households
 34031182000,LI - Ongoing Gentrification
 34031182400,LI - Not Losing Low-Income Households
@@ -655,12 +655,12 @@ GEOID,Typology
 34003059100,LI - Not Losing Low-Income Households
 34003059200,LI - Not Losing Low-Income Households
 34037371000,LI - Not Losing Low-Income Households
-34013000100,LI - At Risk of Gentrification
+34013000100,LI - Not Losing Low-Income Households
 34013000600,LI - Not Losing Low-Income Households
-34013000800,LI - At Risk of Gentrification
+34013000800,LI - Not Losing Low-Income Households
 34013000900,LI - Not Losing Low-Income Households
 34013001400,LI - Not Losing Low-Income Households
-34013001700,LI - At Risk of Gentrification
+34013001700,LI - Not Losing Low-Income Households
 34013002000,LI - Not Losing Low-Income Households
 34013002300,LI - Not Losing Low-Income Households
 34013002400,LI - Not Losing Low-Income Households
@@ -692,10 +692,10 @@ GEOID,Typology
 34037374500,LI - Not Losing Low-Income Households
 34037374700,LI - Not Losing Low-Income Households
 34039030500,LI - Not Losing Low-Income Households
-34039030600,LI - At Risk of Gentrification
+34039030600,LI - Not Losing Low-Income Households
 34039030900,LI - Not Losing Low-Income Households
-34039031200,LI - At Risk of Gentrification
-34039031500,LI - At Risk of Gentrification
+34039031200,LI - Not Losing Low-Income Households
+34039031500,LI - Not Losing Low-Income Households
 34039032100,MHI - At Risk of Exclusion
 34039032600,LI - Ongoing Gentrification
 34039033000,MHI - Displacement of LI hh - Ongoing Exclusion
@@ -716,8 +716,8 @@ GEOID,Typology
 34013006600,LI - Ongoing Displacement of Low- Income Households
 34013006800,LI - Ongoing Displacement of Low- Income Households
 34013007100,LI - Not Losing Low-Income Households
-34013007502,LI - At Risk of Gentrification
-34013007800,LI - At Risk of Gentrification
+34013007502,LI - Not Losing Low-Income Households
+34013007800,LI - Not Losing Low-Income Households
 34013008000,LI - Ongoing Gentrification
 34013011200,LI - Not Losing Low-Income Households
 34013011400,LI - Ongoing Displacement of Low- Income Households
@@ -729,7 +729,7 @@ GEOID,Typology
 34013013200,LI - Not Losing Low-Income Households
 34013014000,MHI - Not Losing Low-Income Households
 34013014200,MHI - At Risk of Exclusion
-34013014400,LI - At Risk of Gentrification
+34013014400,LI - Not Losing Low-Income Households
 34013014700,LI - Not Losing Low-Income Households
 34013015000,MHI - At Risk of Exclusion
 34013015200,MHI - At Risk of Exclusion
@@ -746,7 +746,7 @@ GEOID,Typology
 34017000500,LI - Not Losing Low-Income Households
 34017000800,MHI - Advanced Gentrification
 34017001202,LI - Ongoing Gentrification
-34017001900,LI - At Risk of Gentrification
+34017001900,LI - Not Losing Low-Income Households
 34017003100,LI - Ongoing Gentrification
 34017004101,LI - Not Losing Low-Income Households
 34017015500,LI - Not Losing Low-Income Households
@@ -756,11 +756,11 @@ GEOID,Typology
 34017005200,LI - Not Losing Low-Income Households
 34017005400,MHI - Not Losing Low-Income Households
 34017005900,LI - Not Losing Low-Income Households
-34017006000,LI - At Risk of Gentrification
+34017006000,LI - Not Losing Low-Income Households
 34017010100,LI - Not Losing Low-Income Households
 34017010200,LI - Not Losing Low-Income Households
 34017010400,MHI - At Risk of Exclusion
-34017010700,LI - At Risk of Gentrification
+34017010700,LI - Not Losing Low-Income Households
 34017011200,MHI - At Risk of Exclusion
 34017011400,MHI - Displacement of LI hh - Ongoing Exclusion
 34017012700,LI - Not Losing Low-Income Households
@@ -771,7 +771,7 @@ GEOID,Typology
 34017014400,MHI - At Risk of Exclusion
 34017014600,MHI - Not Losing Low-Income Households
 34017014800,LI - Not Losing Low-Income Households
-34017015900,LI - At Risk of Gentrification
+34017015900,LI - Not Losing Low-Income Households
 34017016200,LI - Not Losing Low-Income Households
 34017016600,LI - Not Losing Low-Income Households
 34017017100,LI - Not Losing Low-Income Households
@@ -837,9 +837,9 @@ GEOID,Typology
 34003023200,LI - Not Losing Low-Income Households
 34003026100,MHI - At Risk of Exclusion
 34003031200,LI - Not Losing Low-Income Households
-34013004500,LI - At Risk of Gentrification
+34013004500,LI - Not Losing Low-Income Households
 34013006400,MHI - Not Losing Low-Income Households
-34013007900,LI - At Risk of Gentrification
+34013007900,LI - Not Losing Low-Income Households
 34013010000,MHI - Not Losing Low-Income Households
 34013011800,LI - Not Losing Low-Income Households
 34013013100,LI - Not Losing Low-Income Households
@@ -855,7 +855,7 @@ GEOID,Typology
 34029723000,MHI - At Risk of Exclusion
 34031124900,LI - Not Losing Low-Income Households
 34031181200,LI - Not Losing Low-Income Households
-34031182500,LI - At Risk of Gentrification
+34031182500,LI - Not Losing Low-Income Households
 34031246101,MHI - At Risk of Exclusion
 34031256803,MHI - At Risk of Exclusion
 34035050600,LI - Ongoing Displacement of Low- Income Households
@@ -896,9 +896,9 @@ GEOID,Typology
 34027042800,MHI - Displacement of LI hh - Ongoing Exclusion
 34027046000,LI - Not Losing Low-Income Households
 34029713600,MHI - At Risk of Exclusion
-34039031000,LI - At Risk of Gentrification
+34039031000,LI - Not Losing Low-Income Households
 34035053804,LI - Ongoing Displacement of Low- Income Households
-34017016700,LI - At Risk of Gentrification
+34017016700,LI - Not Losing Low-Income Households
 34003029100,LI - Not Losing Low-Income Households
 34003061200,MHI - At Risk of Exclusion
 34013001800,LI - Not Losing Low-Income Households
@@ -906,7 +906,7 @@ GEOID,Typology
 34021003903,MHI - At Risk of Exclusion
 34023003600,LI - Ongoing Displacement of Low- Income Households
 34023007301,MHI - Not Losing Low-Income Households
-34013004400,LI - At Risk of Gentrification
+34013004400,LI - Not Losing Low-Income Households
 34037374400,MHI - At Risk of Exclusion
 34003048100,LI - Not Losing Low-Income Households
 34003051400,MHI - At Risk of Exclusion
@@ -916,10 +916,10 @@ GEOID,Typology
 34021004304,MHI - At Risk of Exclusion
 34025804200,MHI - At Risk of Exclusion
 34027042000,MHI - At Risk of Exclusion
-34029715200,LI - At Risk of Gentrification
-34031182100,LI - At Risk of Gentrification
+34029715200,LI - Not Losing Low-Income Households
+34031182100,LI - Not Losing Low-Income Households
 34039034100,LI - Not Losing Low-Income Households
-34013007400,LI - At Risk of Gentrification
+34013007400,LI - Not Losing Low-Income Households
 34023007000,LI - Not Losing Low-Income Households
 34023007500,LI - Not Losing Low-Income Households
 34013020500,MHI - At Risk of Exclusion
@@ -935,7 +935,7 @@ GEOID,Typology
 34029724000,MHI - Displacement of LI hh - Ongoing Exclusion
 34027042900,LI - Not Losing Low-Income Households
 34031180800,LI - Not Losing Low-Income Households
-34031181900,LI - At Risk of Gentrification
+34031181900,LI - Not Losing Low-Income Households
 34013005000,LI - Ongoing Displacement of Low- Income Households
 34039034400,LI - Not Losing Low-Income Households
 34039035400,LI - Not Losing Low-Income Households
@@ -997,7 +997,7 @@ GEOID,Typology
 34013008700,LI - Not Losing Low-Income Households
 34017012500,MHI - Not Losing Low-Income Households
 34017013700,MHI - Not Losing Low-Income Households
-34017015300,LI - At Risk of Gentrification
+34017015300,LI - Not Losing Low-Income Households
 34017016400,LI - Not Losing Low-Income Households
 34039039000,LI - Not Losing Low-Income Households
 34017018200,MHI - At Risk of Exclusion
@@ -1028,7 +1028,7 @@ GEOID,Typology
 34027041902,LI - Not Losing Low-Income Households
 34003008000,MHI - At Risk of Exclusion
 34003017300,MHI - Displacement of LI hh - Ongoing Exclusion
-34013002600,LI - At Risk of Gentrification
+34013002600,LI - Not Losing Low-Income Households
 34013004700,LI - Not Losing Low-Income Households
 34037371700,MHI - Displacement of LI hh - Ongoing Exclusion
 34037373700,LI - Not Losing Low-Income Households
@@ -1105,7 +1105,7 @@ GEOID,Typology
 36005007700,LI - Ongoing Gentrification
 36005011502,LI - Ongoing Displacement of Low- Income Households
 36005014900,LI - Not Losing Low-Income Households
-36005019500,LI - At Risk of Gentrification
+36005019500,LI - Not Losing Low-Income Households
 36005021301,LI - Not Losing Low-Income Households
 36005022703,MHI - Displacement of LI hh - Ongoing Exclusion
 36005025000,MHI - Displacement of LI hh - Ongoing Exclusion
@@ -1116,7 +1116,7 @@ GEOID,Typology
 36005036901,LI - Not Losing Low-Income Households
 36005038900,LI - Ongoing Displacement of Low- Income Households
 36005040400,MHI - Displacement of LI hh - Ongoing Exclusion
-36005040800,LI - At Risk of Gentrification
+36005040800,LI - Not Losing Low-Income Households
 36005041800,LI - Ongoing Gentrification
 36005042901,MHI - Not Losing Low-Income Households
 36005045800,LI - Ongoing Displacement of Low- Income Households
@@ -1125,7 +1125,7 @@ GEOID,Typology
 36047006700,MHI - Displacement of LI hh - Ongoing Exclusion
 36047007100,LI - Ongoing Displacement of Low- Income Households
 36047007600,LI - Not Losing Low-Income Households
-36047010200,LI - At Risk of Gentrification
+36047010200,LI - Not Losing Low-Income Households
 36047012200,LI - Not Losing Low-Income Households
 36047013900,MHI - Advanced Gentrification
 36047014000,MHI - At Risk of Exclusion
@@ -1141,7 +1141,7 @@ GEOID,Typology
 36047028502,LI - Not Losing Low-Income Households
 36047029300,LI - Ongoing Displacement of Low- Income Households
 36047030200,LI - Not Losing Low-Income Households
-36047032100,LI - At Risk of Gentrification
+36047032100,LI - Not Losing Low-Income Households
 36047033100,LI - Not Losing Low-Income Households
 36047035300,LI - Not Losing Low-Income Households
 36047036501,LI - Ongoing Displacement of Low- Income Households
@@ -1183,11 +1183,11 @@ GEOID,Typology
 36059519100,MHI - At Risk of Exclusion
 36059520300,MHI - At Risk of Exclusion
 36061000600,LI - Not Losing Low-Income Households
-36061001600,LI - At Risk of Gentrification
+36061001600,LI - Not Losing Low-Income Households
 36061003100,MHI - At Risk of Exclusion
 36061004700,MHI - At Risk of Exclusion
 36061006600,LI - Not Losing Low-Income Households
-36061008300,LI - At Risk of Gentrification
+36061008300,LI - Not Losing Low-Income Households
 36061008700,MHI - At Risk of Exclusion
 36061009000,MHI - Not Losing Low-Income Households
 36061009700,LI - Not Losing Low-Income Households
@@ -1200,9 +1200,9 @@ GEOID,Typology
 36061020701,LI - Not Losing Low-Income Households
 36061022200,LI - Ongoing Gentrification
 36061022600,LI - Ongoing Displacement of Low- Income Households
-36061023900,LI - At Risk of Gentrification
+36061023900,LI - Not Losing Low-Income Households
 36061026500,LI - Ongoing Gentrification
-36061027700,LI - At Risk of Gentrification
+36061027700,LI - Not Losing Low-Income Households
 36061029100,LI - Not Losing Low-Income Households
 36061030300,LI - Ongoing Gentrification
 36071001500,LI - Not Losing Low-Income Households
@@ -1226,7 +1226,7 @@ GEOID,Typology
 36081035300,LI - Not Losing Low-Income Households
 36081037700,LI - Not Losing Low-Income Households
 36081040700,LI - Not Losing Low-Income Households
-36081044601,LI - At Risk of Gentrification
+36081044601,LI - Not Losing Low-Income Households
 36081046200,LI - Not Losing Low-Income Households
 36081049600,MHI - Advanced Gentrification
 36081050202,MHI - Not Losing Low-Income Households
@@ -1287,15 +1287,15 @@ GEOID,Typology
 36005011900,LI - Not Losing Low-Income Households
 36005012701,LI - Not Losing Low-Income Households
 36005014400,LI - Not Losing Low-Income Households
-36005019700,LI - At Risk of Gentrification
+36005019700,LI - Not Losing Low-Income Households
 36005020100,LI - Ongoing Gentrification
 36005021100,LI - Ongoing Gentrification
 36005021601,LI - Ongoing Gentrification
 36005022701,LI - Ongoing Displacement of Low- Income Households
 36005022902,LI - Not Losing Low-Income Households
 36005023501,LI - Not Losing Low-Income Households
-36005025100,LI - At Risk of Gentrification
-36005025700,LI - At Risk of Gentrification
+36005025100,LI - Not Losing Low-Income Households
+36005025700,LI - Not Losing Low-Income Households
 36005027300,MHI - Not Losing Low-Income Households
 36005028300,LI - Ongoing Gentrification
 36005030100,MHI - Not Losing Low-Income Households
@@ -1347,7 +1347,7 @@ GEOID,Typology
 36061015700,MHI - At Risk of Exclusion
 36061016002,MHI - At Risk of Exclusion
 36061016600,LI - Ongoing Displacement of Low- Income Households
-36061017402,LI - At Risk of Gentrification
+36061017402,LI - Not Losing Low-Income Households
 36061018000,LI - Not Losing Low-Income Households
 36061018500,MHI - Not Losing Low-Income Households
 36061019000,LI - Ongoing Displacement of Low- Income Households
@@ -1375,8 +1375,8 @@ GEOID,Typology
 36047002300,LI - Not Losing Low-Income Households
 36047003800,MHI - At Risk of Exclusion
 36047004500,MHI - Displacement of LI hh - Ongoing Exclusion
-36047007400,LI - At Risk of Gentrification
-36047008400,LI - At Risk of Gentrification
+36047007400,LI - Not Losing Low-Income Households
+36047008400,LI - Not Losing Low-Income Households
 36047009600,LI - At Risk of Gentrification
 36047011000,LI - At Risk of Gentrification
 36047011600,LI - Not Losing Low-Income Households
@@ -1400,13 +1400,13 @@ GEOID,Typology
 36081001200,MHI - Displacement of LI hh - Ongoing Exclusion
 36047024900,MHI - Advanced Gentrification
 36047025500,LI - Not Losing Low-Income Households
-36047026400,LI - At Risk of Gentrification
+36047026400,LI - Not Losing Low-Income Households
 36047026900,LI - Ongoing Gentrification
 36047029500,MHI - Advanced Gentrification
 36047030000,LI - Ongoing Gentrification
 36047031701,MHI - Advanced Gentrification
 36047032500,LI - Ongoing Displacement of Low- Income Households
-36047033300,LI - At Risk of Gentrification
+36047033300,LI - Not Losing Low-Income Households
 36047034000,LI - Not Losing Low-Income Households
 36047034900,LI - Not Losing Low-Income Households
 36047035500,LI - Ongoing Gentrification
@@ -1452,11 +1452,11 @@ GEOID,Typology
 36047053200,MHI - At Risk of Exclusion
 36047054200,LI - At Risk of Gentrification
 36047054500,LI - Not Losing Low-Income Households
-36047055200,LI - At Risk of Gentrification
+36047055200,LI - Not Losing Low-Income Households
 36047055700,MHI - Advanced Gentrification
 36047056600,MHI - Not Losing Low-Income Households
 36047057000,MHI - Not Losing Low-Income Households
-36047057800,LI - At Risk of Gentrification
+36047057800,LI - Not Losing Low-Income Households
 36047059000,LI - Ongoing Gentrification
 36047063200,MHI - Not Losing Low-Income Households
 36047064000,MHI - Displacement of LI hh - Ongoing Exclusion
@@ -1478,10 +1478,10 @@ GEOID,Typology
 36081055600,MHI - Not Losing Low-Income Households
 36047074400,MHI - At Risk of Exclusion
 36047075600,MHI - At Risk of Exclusion
-36047077000,LI - At Risk of Gentrification
+36047077000,LI - Not Losing Low-Income Households
 36047078200,MHI - Displacement of LI hh - Ongoing Exclusion
 36047085600,LI - Not Losing Low-Income Households
-36047087200,LI - At Risk of Gentrification
+36047087200,LI - Not Losing Low-Income Households
 36047088000,LI - Not Losing Low-Income Households
 36047090000,LI - Not Losing Low-Income Households
 36047091200,LI - Not Losing Low-Income Households
@@ -1538,7 +1538,7 @@ GEOID,Typology
 36059406002,MHI - At Risk of Exclusion
 36059406600,MHI - Displacement of LI hh - Ongoing Exclusion
 36059407000,LI - Not Losing Low-Income Households
-36059407802,LI - At Risk of Gentrification
+36059407802,LI - Not Losing Low-Income Households
 36059408200,MHI - At Risk of Exclusion
 36059410200,MHI - At Risk of Exclusion
 36059411400,LI - Not Losing Low-Income Households
@@ -1571,7 +1571,7 @@ GEOID,Typology
 36047012902,MHI - At Risk of Exclusion
 36047023100,MHI - Advanced Gentrification
 36047028000,MHI - Not Losing Low-Income Households
-36047033500,LI - At Risk of Gentrification
+36047033500,LI - Not Losing Low-Income Households
 36047037500,LI - Ongoing Displacement of Low- Income Households
 36047041600,LI - Ongoing Gentrification
 36047049600,MHI - Advanced Gentrification
@@ -1591,7 +1591,7 @@ GEOID,Typology
 36061008100,MHI - Displacement of LI hh - Ongoing Exclusion
 36061011402,MHI - Not Losing Low-Income Households
 36061016001,MHI - At Risk of Exclusion
-36061023502,LI - At Risk of Gentrification
+36061023502,LI - Not Losing Low-Income Households
 36061028300,LI - Not Losing Low-Income Households
 36081003100,LI - Ongoing Gentrification
 36081012100,LI - Not Losing Low-Income Households
@@ -1601,7 +1601,7 @@ GEOID,Typology
 36081040100,LI - Not Losing Low-Income Households
 36081044602,LI - Not Losing Low-Income Households
 36081049302,LI - Ongoing Gentrification
-36081054500,LI - At Risk of Gentrification
+36081054500,LI - Not Losing Low-Income Households
 36081060100,MHI - At Risk of Exclusion
 36081063301,MHI - At Risk of Exclusion
 36081069500,LI - Not Losing Low-Income Households
@@ -1617,7 +1617,7 @@ GEOID,Typology
 36103158315,LI - Not Losing Low-Income Households
 36103159000,LI - Not Losing Low-Income Households
 36111952100,LI - Ongoing Displacement of Low- Income Households
-36119000101,LI - At Risk of Gentrification
+36119000101,LI - Not Losing Low-Income Households
 36119001402,LI - Not Losing Low-Income Households
 36119003200,LI - Not Losing Low-Income Households
 36119006000,LI - Ongoing Gentrification
@@ -1655,7 +1655,7 @@ GEOID,Typology
 36047072400,MHI - Not Losing Low-Income Households
 36047088200,LI - Ongoing Gentrification
 36081074500,LI - Not Losing Low-Income Households
-36047112400,LI - At Risk of Gentrification
+36047112400,LI - Not Losing Low-Income Households
 36081086300,LI - Not Losing Low-Income Households
 36081140901,MHI - At Risk of Exclusion
 36085000900,LI - Ongoing Displacement of Low- Income Households
@@ -1666,7 +1666,7 @@ GEOID,Typology
 36047010600,LI - Not Losing Low-Income Households
 36047022000,LI - At Risk of Gentrification
 36047027900,MHI - Not Losing Low-Income Households
-36047028600,LI - At Risk of Gentrification
+36047028600,LI - Not Losing Low-Income Households
 36047031702,MHI - Advanced Gentrification
 36047039600,LI - At Risk of Gentrification
 36047043300,LI - Not Losing Low-Income Households
@@ -1692,7 +1692,7 @@ GEOID,Typology
 36061011203,MHI - Not Losing Low-Income Households
 36061015801,MHI - Displacement of LI hh - Ongoing Exclusion
 36061021400,LI - Ongoing Gentrification
-36061026700,LI - At Risk of Gentrification
+36061026700,LI - Not Losing Low-Income Households
 36071011500,MHI - Not Losing Low-Income Households
 36081001000,MHI - Not Losing Low-Income Households
 36081005500,MHI - Not Losing Low-Income Households
@@ -1716,12 +1716,12 @@ GEOID,Typology
 36103145604,LI - Not Losing Low-Income Households
 36103146612,MHI - Not Losing Low-Income Households
 36111952400,LI - Not Losing Low-Income Households
-36119000201,LI - At Risk of Gentrification
+36119000201,LI - Not Losing Low-Income Households
 36119001101,LI - Not Losing Low-Income Households
 36119002700,LI - Not Losing Low-Income Households
 36005034400,MHI - At Risk of Exclusion
 36005038500,LI - Not Losing Low-Income Households
-36005044200,LI - At Risk of Gentrification
+36005044200,LI - Not Losing Low-Income Households
 36103123001,LI - Not Losing Low-Income Households
 36103135402,MHI - At Risk of Exclusion
 36103146105,LI - Not Losing Low-Income Households
@@ -1749,7 +1749,7 @@ GEOID,Typology
 36047022800,LI - Not Losing Low-Income Households
 36081000400,LI - Not Losing Low-Income Households
 36047087000,LI - Not Losing Low-Income Households
-36047089200,LI - At Risk of Gentrification
+36047089200,LI - Not Losing Low-Income Households
 36081060000,MHI - Not Losing Low-Income Households
 36081062700,MHI - Displacement of LI hh - Ongoing Exclusion
 36047101600,MHI - Displacement of LI hh - Ongoing Exclusion
@@ -1761,7 +1761,7 @@ GEOID,Typology
 36061020102,LI - Ongoing Gentrification
 36061022400,LI - Ongoing Displacement of Low- Income Households
 36047024400,LI - Not Losing Low-Income Households
-36047025400,LI - At Risk of Gentrification
+36047025400,LI - Not Losing Low-Income Households
 36047030100,LI - Ongoing Gentrification
 36047034200,LI - Not Losing Low-Income Households
 36047037700,LI - Ongoing Gentrification
@@ -1817,7 +1817,7 @@ GEOID,Typology
 36047007500,MHI - Displacement of LI hh - Ongoing Exclusion
 36047007700,MHI - Displacement of LI hh - Ongoing Exclusion
 36047009400,LI - At Risk of Gentrification
-36047010800,LI - At Risk of Gentrification
+36047010800,LI - Not Losing Low-Income Households
 36059302502,MHI - At Risk of Exclusion
 36059303000,MHI - At Risk of Exclusion
 36059303400,MHI - At Risk of Exclusion
@@ -1903,9 +1903,9 @@ GEOID,Typology
 36059517400,MHI - Displacement of LI hh - Ongoing Exclusion
 36005002800,MHI - Not Losing Low-Income Households
 36027170000,MHI - Displacement of LI hh - Ongoing Exclusion
-36047041800,LI - At Risk of Gentrification
+36047041800,LI - Not Losing Low-Income Households
 36047042300,LI - Not Losing Low-Income Households
-36047042600,LI - At Risk of Gentrification
+36047042600,LI - Not Losing Low-Income Households
 36047042800,LI - Ongoing Gentrification
 36047043800,LI - Not Losing Low-Income Households
 36047044100,LI - Ongoing Displacement of Low- Income Households
@@ -1979,8 +1979,8 @@ GEOID,Typology
 36047073200,MHI - At Risk of Exclusion
 36047074800,MHI - At Risk of Exclusion
 36047077400,MHI - Advanced Gentrification
-36047079000,LI - At Risk of Gentrification
-36047080200,LI - At Risk of Gentrification
+36047079000,LI - Not Losing Low-Income Households
+36047080200,LI - Not Losing Low-Income Households
 36047080600,LI - Not Losing Low-Income Households
 36047081600,LI - At Risk of Gentrification
 36061005000,MHI - Not Losing Low-Income Households
@@ -1997,14 +1997,14 @@ GEOID,Typology
 36061009300,LI - Not Losing Low-Income Households
 36061009800,MHI - Displacement of LI hh - Ongoing Exclusion
 36061011201,MHI - Not Losing Low-Income Households
-36005021800,LI - At Risk of Gentrification
-36005022901,LI - At Risk of Gentrification
+36005021800,LI - Not Losing Low-Income Households
+36005022901,LI - Not Losing Low-Income Households
 36005023301,LI - Not Losing Low-Income Households
 36005023502,LI - Not Losing Low-Income Households
 36005024400,MHI - Not Losing Low-Income Households
 36005024800,MHI - Advanced Gentrification
 36005025500,LI - Not Losing Low-Income Households
-36005026500,LI - At Risk of Gentrification
+36005026500,LI - Not Losing Low-Income Households
 36005028500,MHI - Advanced Gentrification
 36005030000,MHI - Advanced Gentrification
 36047082400,LI - Not Losing Low-Income Households
@@ -2029,7 +2029,7 @@ GEOID,Typology
 36061013700,MHI - At Risk of Exclusion
 36061014500,MHI - Displacement of LI hh - Ongoing Exclusion
 36061014802,MHI - At Risk of Exclusion
-36061015200,LI - At Risk of Gentrification
+36061015200,LI - Not Losing Low-Income Households
 36061015602,LI - Ongoing Displacement of Low- Income Households
 36061016700,MHI - At Risk of Exclusion
 36061017900,MHI - At Risk of Exclusion
@@ -2040,7 +2040,7 @@ GEOID,Typology
 36005034300,MHI - At Risk of Exclusion
 36005034500,MHI - Not Losing Low-Income Households
 36005035100,MHI - Advanced Gentrification
-36005036700,LI - At Risk of Gentrification
+36005036700,LI - Not Losing Low-Income Households
 36005037300,LI - Not Losing Low-Income Households
 36005037900,LI - Not Losing Low-Income Households
 36005039200,MHI - Not Losing Low-Income Households
@@ -2059,22 +2059,22 @@ GEOID,Typology
 36061023300,LI - Ongoing Gentrification
 36061023700,LI - Ongoing Gentrification
 36061024302,LI - Not Losing Low-Income Households
-36061025300,LI - At Risk of Gentrification
+36061025300,LI - Not Losing Low-Income Households
 36061026300,LI - At Risk of Gentrification
 36061026900,LI - At Risk of Gentrification
 36061027300,LI - Not Losing Low-Income Households
-36061027900,LI - At Risk of Gentrification
+36061027900,LI - Not Losing Low-Income Households
 36061028500,LI - Not Losing Low-Income Households
-36005040702,LI - At Risk of Gentrification
+36005040702,LI - Not Losing Low-Income Households
 36005041100,MHI - Not Losing Low-Income Households
 36005041300,MHI - Not Losing Low-Income Households
 36005042100,LI - Not Losing Low-Income Households
 36005042600,MHI - Displacement of LI hh - Ongoing Exclusion
-36005043100,LI - At Risk of Gentrification
+36005043100,LI - Not Losing Low-Income Households
 36005044901,MHI - Advanced Gentrification
 36005045102,MHI - Advanced Gentrification
 36005046202,LI - Not Losing Low-Income Households
-36061028700,LI - At Risk of Gentrification
+36061028700,LI - Not Losing Low-Income Households
 36061029300,LI - Not Losing Low-Income Households
 36061030900,LI - Not Losing Low-Income Households
 36071000400,LI - Not Losing Low-Income Households
@@ -2195,9 +2195,9 @@ GEOID,Typology
 36119002403,LI - Ongoing Gentrification
 36119002405,LI - Not Losing Low-Income Households
 36119002800,LI - Not Losing Low-Income Households
-36119003100,LI - At Risk of Gentrification
+36119003100,LI - Not Losing Low-Income Households
 36119003400,LI - Not Losing Low-Income Households
-36119003600,LI - At Risk of Gentrification
+36119003600,LI - Not Losing Low-Income Households
 36119003800,LI - Not Losing Low-Income Households
 36119004800,LI - Not Losing Low-Income Households
 36119005200,MHI - Displacement of LI hh - Ongoing Exclusion
@@ -2344,9 +2344,9 @@ GEOID,Typology
 36005006100,MHI - Not Losing Low-Income Households
 36005006200,LI - Ongoing Displacement of Low- Income Households
 36005006700,LI - Not Losing Low-Income Households
-36005007000,LI - At Risk of Gentrification
+36005007000,LI - Not Losing Low-Income Households
 36005007200,LI - Not Losing Low-Income Households
-36005007800,LI - At Risk of Gentrification
+36005007800,LI - Not Losing Low-Income Households
 36081017600,LI - Not Losing Low-Income Households
 36005008300,LI - Ongoing Gentrification
 36005008600,LI - Not Losing Low-Income Households
@@ -2360,7 +2360,7 @@ GEOID,Typology
 36047039000,LI - Not Losing Low-Income Households
 36061002400,LI - Not Losing Low-Income Households
 36081039400,LI - Not Losing Low-Income Households
-36005024100,LI - At Risk of Gentrification
+36005024100,LI - Not Losing Low-Income Households
 36005038800,MHI - Not Losing Low-Income Households
 36005016100,LI - Not Losing Low-Income Households
 36005019400,MHI - Not Losing Low-Income Households
@@ -2372,7 +2372,7 @@ GEOID,Typology
 36005022000,LI - Not Losing Low-Income Households
 36005022300,LI - Not Losing Low-Income Households
 36005022401,MHI - Displacement of LI hh - Ongoing Exclusion
-36005022702,LI - At Risk of Gentrification
+36005022702,LI - Not Losing Low-Income Households
 36005022800,MHI - Displacement of LI hh - Ongoing Exclusion
 36005023000,LI - Ongoing Displacement of Low- Income Households
 36005023302,LI - Not Losing Low-Income Households
@@ -2392,7 +2392,7 @@ GEOID,Typology
 36005031600,MHI - Not Losing Low-Income Households
 36005031800,MHI - Not Losing Low-Income Households
 36005032800,LI - Not Losing Low-Income Households
-36005034000,LI - At Risk of Gentrification
+36005034000,LI - Not Losing Low-Income Households
 36005035000,MHI - Advanced Gentrification
 36005035900,LI - Not Losing Low-Income Households
 36005036800,MHI - Not Losing Low-Income Households
@@ -2417,8 +2417,8 @@ GEOID,Typology
 36061001502,MHI - Displacement of LI hh - Ongoing Exclusion
 36061002000,LI - Not Losing Low-Income Households
 36061002201,LI - Not Losing Low-Income Households
-36061002800,LI - At Risk of Gentrification
-36061002900,LI - At Risk of Gentrification
+36061002800,LI - Not Losing Low-Income Households
+36061002900,LI - Not Losing Low-Income Households
 36061003200,LI - Not Losing Low-Income Households
 36061003300,MHI - At Risk of Exclusion
 36061004000,MHI - At Risk of Exclusion
@@ -2464,7 +2464,7 @@ GEOID,Typology
 36103158310,LI - Not Losing Low-Income Households
 36103158402,MHI - Displacement of LI hh - Ongoing Exclusion
 36103158405,MHI - Not Losing Low-Income Households
-36061023200,LI - At Risk of Gentrification
+36061023200,LI - Not Losing Low-Income Households
 36061023501,LI - Not Losing Low-Income Households
 36103170002,LI - Not Losing Low-Income Households
 36103170202,LI - Not Losing Low-Income Households
@@ -2584,7 +2584,7 @@ GEOID,Typology
 36119002103,MHI - At Risk of Exclusion
 36119002105,MHI - At Risk of Exclusion
 36119003900,LI - Not Losing Low-Income Households
-36061024500,LI - At Risk of Gentrification
+36061024500,LI - Not Losing Low-Income Households
 36061025100,LI - Not Losing Low-Income Households
 36061025500,LI - At Risk of Gentrification
 36119004200,LI - Not Losing Low-Income Households
@@ -2595,7 +2595,7 @@ GEOID,Typology
 36119005702,LI - Not Losing Low-Income Households
 36119005902,LI - Ongoing Displacement of Low- Income Households
 36119006300,LI - At Risk of Gentrification
-36119006400,LI - At Risk of Gentrification
+36119006400,LI - Not Losing Low-Income Households
 36119006600,MHI - Displacement of LI hh - Ongoing Exclusion
 36119006802,MHI - At Risk of Exclusion
 36119007000,MHI - At Risk of Exclusion
@@ -2620,7 +2620,7 @@ GEOID,Typology
 36047024500,MHI - Advanced Gentrification
 36047024700,LI - Ongoing Gentrification
 36047025000,LI - Not Losing Low-Income Households
-36047025200,LI - At Risk of Gentrification
+36047025200,LI - Not Losing Low-Income Households
 36047025700,MHI - Advanced Gentrification
 36047025902,LI - Not Losing Low-Income Households
 36047026100,LI - Ongoing Gentrification
@@ -2639,7 +2639,7 @@ GEOID,Typology
 36071010200,MHI - At Risk of Exclusion
 36071010600,MHI - Not Losing Low-Income Households
 36047012100,MHI - Not Losing Low-Income Households
-36047013000,LI - At Risk of Gentrification
+36047013000,LI - Not Losing Low-Income Households
 36047013100,MHI - At Risk of Exclusion
 36047013500,MHI - Displacement of LI hh - Ongoing Exclusion
 36047013800,LI - Not Losing Low-Income Households
@@ -2658,7 +2658,7 @@ GEOID,Typology
 36047018000,MHI - Advanced Gentrification
 36047018501,LI - Not Losing Low-Income Households
 36047018600,MHI - Advanced Gentrification
-36047019200,LI - At Risk of Gentrification
+36047019200,LI - Not Losing Low-Income Households
 36047019600,LI - At Risk of Gentrification
 36047019900,MHI - Advanced Gentrification
 36047030800,LI - Ongoing Displacement of Low- Income Households
@@ -2672,7 +2672,7 @@ GEOID,Typology
 36047034700,LI - Ongoing Displacement of Low- Income Households
 36047035000,LI - Not Losing Low-Income Households
 36047035200,LI - Not Losing Low-Income Households
-36047035900,LI - At Risk of Gentrification
+36047035900,LI - Not Losing Low-Income Households
 36047036100,LI - Not Losing Low-Income Households
 36047036502,LI - Ongoing Gentrification
 36047020100,MHI - Displacement of LI hh - Ongoing Exclusion
@@ -2727,7 +2727,7 @@ GEOID,Typology
 36047052900,LI - Not Losing Low-Income Households
 36047053000,LI - At Risk of Gentrification
 36047053400,LI - At Risk of Gentrification
-36047053500,LI - At Risk of Gentrification
+36047053500,LI - Not Losing Low-Income Households
 36047054700,LI - Ongoing Gentrification
 36047054800,MHI - At Risk of Exclusion
 36047055300,MHI - Advanced Gentrification
@@ -2768,7 +2768,7 @@ GEOID,Typology
 36081047800,MHI - Not Losing Low-Income Households
 36081048200,MHI - At Risk of Exclusion
 36081048300,LI - Not Losing Low-Income Households
-36081049200,LI - At Risk of Gentrification
+36081049200,LI - Not Losing Low-Income Households
 36081049900,LI - Not Losing Low-Income Households
 36081050700,LI - Not Losing Low-Income Households
 36081051100,MHI - Displacement of LI hh - Ongoing Exclusion
@@ -2778,7 +2778,7 @@ GEOID,Typology
 36081054000,LI - Ongoing Gentrification
 36081054200,MHI - Not Losing Low-Income Households
 36081055300,LI - Not Losing Low-Income Households
-36081055500,LI - At Risk of Gentrification
+36081055500,LI - Not Losing Low-Income Households
 36081055800,MHI - Advanced Gentrification
 36047073000,MHI - Not Losing Low-Income Households
 36047073600,MHI - Not Losing Low-Income Households
@@ -2789,12 +2789,12 @@ GEOID,Typology
 36047077200,MHI - Not Losing Low-Income Households
 36047077600,MHI - Not Losing Low-Income Households
 36047078400,MHI - Not Losing Low-Income Households
-36047079400,LI - At Risk of Gentrification
+36047079400,LI - Not Losing Low-Income Households
 36047086000,MHI - Advanced Gentrification
-36047086200,LI - At Risk of Gentrification
-36047086600,LI - At Risk of Gentrification
-36047087600,LI - At Risk of Gentrification
-36047088600,LI - At Risk of Gentrification
+36047086200,LI - Not Losing Low-Income Households
+36047086600,LI - Not Losing Low-Income Households
+36047087600,LI - Not Losing Low-Income Households
+36047088600,LI - Not Losing Low-Income Households
 36047089000,LI - Not Losing Low-Income Households
 36047089600,LI - Not Losing Low-Income Households
 36047090200,LI - Not Losing Low-Income Households
@@ -2806,8 +2806,8 @@ GEOID,Typology
 36047098200,LI - Not Losing Low-Income Households
 36047099200,MHI - Not Losing Low-Income Households
 36047099600,MHI - Displacement of LI hh - Ongoing Exclusion
-36081056400,LI - At Risk of Gentrification
-36081057700,LI - At Risk of Gentrification
+36081056400,LI - Not Losing Low-Income Households
+36081057700,LI - Not Losing Low-Income Households
 36081058000,MHI - Advanced Gentrification
 36081058300,MHI - Advanced Gentrification
 36081058700,LI - Ongoing Gentrification
@@ -2835,7 +2835,7 @@ GEOID,Typology
 36047039800,LI - Ongoing Gentrification
 36047040000,LI - Ongoing Displacement of Low- Income Households
 36047040300,LI - At Risk of Gentrification
-36047040600,LI - At Risk of Gentrification
+36047040600,LI - Not Losing Low-Income Households
 36047041000,LI - Not Losing Low-Income Households
 36047041100,LI - Ongoing Displacement of Low- Income Households
 36047041500,LI - Not Losing Low-Income Households
@@ -2844,14 +2844,14 @@ GEOID,Typology
 36047042200,MHI - Advanced Gentrification
 36047042700,LI - Ongoing Gentrification
 36047042900,LI - Ongoing Gentrification
-36047043200,LI - At Risk of Gentrification
+36047043200,LI - Not Losing Low-Income Households
 36047043500,LI - Not Losing Low-Income Households
 36047044000,LI - Ongoing Gentrification
 36047044200,MHI - Displacement of LI hh - Ongoing Exclusion
 36047044700,MHI - Advanced Gentrification
 36081077905,MHI - Not Losing Low-Income Households
 36047045300,MHI - Advanced Gentrification
-36047045600,LI - At Risk of Gentrification
+36047045600,LI - Not Losing Low-Income Households
 36047046400,LI - Ongoing Displacement of Low- Income Households
 36047046800,LI - Not Losing Low-Income Households
 36047047600,LI - Not Losing Low-Income Households
@@ -2862,8 +2862,8 @@ GEOID,Typology
 36047052300,LI - Ongoing Gentrification
 36081018300,MHI - At Risk of Exclusion
 36081018900,MHI - At Risk of Exclusion
-36081019800,LI - At Risk of Gentrification
-36081021200,LI - At Risk of Gentrification
+36081019800,LI - Not Losing Low-Income Households
+36081021200,LI - Not Losing Low-Income Households
 36081021400,LI - Not Losing Low-Income Households
 36081023200,MHI - Not Losing Low-Income Households
 36081023600,LI - Ongoing Displacement of Low- Income Households
@@ -2886,14 +2886,14 @@ GEOID,Typology
 36047102200,MHI - Not Losing Low-Income Households
 36047103400,LI - Not Losing Low-Income Households
 36047111000,LI - Not Losing Low-Income Households
-36047112000,LI - At Risk of Gentrification
-36047112800,LI - At Risk of Gentrification
+36047112000,LI - Not Losing Low-Income Households
+36047112800,LI - Not Losing Low-Income Households
 36047114202,MHI - Not Losing Low-Income Households
 36047115600,LI - Not Losing Low-Income Households
 36047116200,LI - Not Losing Low-Income Households
 36047116800,LI - Not Losing Low-Income Households
 36047117201,MHI - Not Losing Low-Income Households
-36047117800,LI - At Risk of Gentrification
+36047117800,LI - Not Losing Low-Income Households
 36047118201,LI - Not Losing Low-Income Households
 36047118600,LI - Not Losing Low-Income Households
 36047120000,LI - Not Losing Low-Income Households
@@ -2911,7 +2911,7 @@ GEOID,Typology
 36081080302,MHI - At Risk of Exclusion
 36081083800,MHI - Advanced Gentrification
 36081084000,LI - Not Losing Low-Income Households
-36081085700,LI - At Risk of Gentrification
+36081085700,LI - Not Losing Low-Income Households
 36081086500,LI - Not Losing Low-Income Households
 36081087100,LI - Not Losing Low-Income Households
 36081088400,MHI - At Risk of Exclusion
@@ -2963,7 +2963,7 @@ GEOID,Typology
 36085015601,MHI - Displacement of LI hh - Ongoing Exclusion
 36085015603,MHI - At Risk of Exclusion
 36085017600,MHI - At Risk of Exclusion
-36085020700,LI - At Risk of Gentrification
+36085020700,LI - Not Losing Low-Income Households
 36085024700,LI - Not Losing Low-Income Households
 36085029102,MHI - At Risk of Exclusion
 36081122701,LI - Ongoing Gentrification
@@ -3068,7 +3068,7 @@ GEOID,Typology
 36005014300,LI - Not Losing Low-Income Households
 36005016000,MHI - At Risk of Exclusion
 36005017500,LI - Not Losing Low-Income Households
-36005020200,LI - At Risk of Gentrification
+36005020200,LI - Not Losing Low-Income Households
 36005024000,LI - Not Losing Low-Income Households
 36005026900,LI - Not Losing Low-Income Households
 36005031000,MHI - Displacement of LI hh - Ongoing Exclusion
@@ -3106,8 +3106,8 @@ GEOID,Typology
 36047059100,MHI - Advanced Gentrification
 36047064600,MHI - Displacement of LI hh - Ongoing Exclusion
 36047067600,MHI - At Risk of Exclusion
-36047080400,LI - At Risk of Gentrification
-36047081800,LI - At Risk of Gentrification
+36047080400,LI - Not Losing Low-Income Households
+36047081800,LI - Not Losing Low-Income Households
 36047083800,LI - Not Losing Low-Income Households
 36047088800,LI - Not Losing Low-Income Households
 36047092200,LI - Not Losing Low-Income Households
@@ -3139,7 +3139,7 @@ GEOID,Typology
 36061017401,LI - Not Losing Low-Income Households
 36061018700,MHI - At Risk of Exclusion
 36061021200,LI - Ongoing Gentrification
-36061024700,LI - At Risk of Gentrification
+36061024700,LI - Not Losing Low-Income Households
 36061026100,LI - Not Losing Low-Income Households
 36061027100,LI - Ongoing Gentrification
 36061029500,LI - Ongoing Gentrification
@@ -3157,7 +3157,7 @@ GEOID,Typology
 36081012601,MHI - Not Losing Low-Income Households
 36081020800,MHI - Displacement of LI hh - Ongoing Exclusion
 36081024000,LI - At Risk of Gentrification
-36081027100,LI - At Risk of Gentrification
+36081027100,LI - Not Losing Low-Income Households
 36081028300,LI - Ongoing Displacement of Low- Income Households
 36081037500,LI - Not Losing Low-Income Households
 36081041400,LI - At Risk of Gentrification
@@ -3172,7 +3172,7 @@ GEOID,Typology
 36081065600,MHI - Not Losing Low-Income Households
 36081067700,MHI - At Risk of Exclusion
 36081070900,MHI - At Risk of Exclusion
-36081072100,LI - At Risk of Gentrification
+36081072100,LI - Not Losing Low-Income Households
 36081081400,LI - Ongoing Gentrification
 36081094203,LI - Not Losing Low-Income Households
 36081125700,LI - Not Losing Low-Income Households
@@ -3205,7 +3205,7 @@ GEOID,Typology
 36119002104,LI - Not Losing Low-Income Households
 36119002401,LI - Not Losing Low-Income Households
 36119002600,LI - Not Losing Low-Income Households
-36119003700,LI - At Risk of Gentrification
+36119003700,LI - Not Losing Low-Income Households
 36119005001,MHI - At Risk of Exclusion
 36119008401,MHI - Not Losing Low-Income Households
 36085002001,MHI - Displacement of LI hh - Ongoing Exclusion
@@ -3285,11 +3285,11 @@ GEOID,Typology
 36111951800,LI - Not Losing Low-Income Households
 36111952800,MHI - At Risk of Exclusion
 36111954000,LI - Not Losing Low-Income Households
-36119001302,LI - At Risk of Gentrification
+36119001302,LI - Not Losing Low-Income Households
 36119001700,LI - Not Losing Low-Income Households
 36047008800,MHI - Advanced Gentrification
 36071000600,LI - Ongoing Displacement of Low- Income Households
-36047023200,LI - At Risk of Gentrification
+36047023200,LI - Not Losing Low-Income Households
 36081000100,MHI - At Risk of Exclusion
 36047037300,LI - Not Losing Low-Income Households
 36047078600,LI - Not Losing Low-Income Households
@@ -3385,7 +3385,7 @@ GEOID,Typology
 36005028100,MHI - Not Losing Low-Income Households
 36005033800,MHI - Not Losing Low-Income Households
 36005036400,MHI - Not Losing Low-Income Households
-36005040100,LI - At Risk of Gentrification
+36005040100,LI - Not Losing Low-Income Households
 36005040701,LI - Ongoing Displacement of Low- Income Households
 36005041400,MHI - Advanced Gentrification
 36079010600,MHI - Displacement of LI hh - Ongoing Exclusion
@@ -3395,7 +3395,7 @@ GEOID,Typology
 36081014201,LI - Ongoing Displacement of Low- Income Households
 36081018200,MHI - Not Losing Low-Income Households
 36081024500,MHI - Not Losing Low-Income Households
-36081028100,LI - At Risk of Gentrification
+36081028100,LI - Not Losing Low-Income Households
 36111954100,LI - Not Losing Low-Income Households
 36119002000,MHI - At Risk of Exclusion
 36119002204,LI - Not Losing Low-Income Households
@@ -3403,7 +3403,7 @@ GEOID,Typology
 36119004300,LI - Not Losing Low-Income Households
 36119005701,LI - Not Losing Low-Income Households
 36119007100,MHI - At Risk of Exclusion
-36081036100,LI - At Risk of Gentrification
+36081036100,LI - Not Losing Low-Income Households
 36081041100,LI - Not Losing Low-Income Households
 36081043400,MHI - Not Losing Low-Income Households
 36081047900,LI - Not Losing Low-Income Households
@@ -3469,7 +3469,7 @@ GEOID,Typology
 36081064101,MHI - Displacement of LI hh - Ongoing Exclusion
 36081065900,MHI - Not Losing Low-Income Households
 36081067900,LI - Not Losing Low-Income Households
-36005026300,LI - At Risk of Gentrification
+36005026300,LI - Not Losing Low-Income Households
 36085003600,LI - Ongoing Displacement of Low- Income Households
 36085008100,LI - Not Losing Low-Income Households
 36079011000,MHI - At Risk of Exclusion
@@ -3477,7 +3477,7 @@ GEOID,Typology
 36005023900,LI - Ongoing Displacement of Low- Income Households
 36047003300,MHI - At Risk of Exclusion
 36047004600,MHI - At Risk of Exclusion
-36047010100,LI - At Risk of Gentrification
+36047010100,LI - Not Losing Low-Income Households
 36047057200,LI - Not Losing Low-Income Households
 36047058600,MHI - Not Losing Low-Income Households
 36047065000,LI - Not Losing Low-Income Households
@@ -3613,7 +3613,7 @@ GEOID,Typology
 36081056600,LI - Not Losing Low-Income Households
 36081068300,LI - Ongoing Displacement of Low- Income Households
 36061021000,LI - Not Losing Low-Income Households
-36047010400,LI - At Risk of Gentrification
+36047010400,LI - Not Losing Low-Income Households
 36047015900,MHI - At Risk of Exclusion
 36047033600,MHI - Advanced Gentrification
 36081033900,LI - Ongoing Displacement of Low- Income Households
@@ -3640,9 +3640,9 @@ GEOID,Typology
 36047116000,LI - Not Losing Low-Income Households
 36047003700,MHI - Advanced Gentrification
 36061016800,LI - Not Losing Low-Income Households
-36081085900,LI - At Risk of Gentrification
+36081085900,LI - Not Losing Low-Income Households
 36085027302,LI - Not Losing Low-Income Households
-36061020600,LI - At Risk of Gentrification
+36061020600,LI - Not Losing Low-Income Households
 36081004002,MHI - Displacement of LI hh - Ongoing Exclusion
 36081014500,LI - Ongoing Displacement of Low- Income Households
 36081049500,LI - Not Losing Low-Income Households
@@ -3676,7 +3676,7 @@ GEOID,Typology
 36047091600,LI - Not Losing Low-Income Households
 36061014700,MHI - Displacement of LI hh - Ongoing Exclusion
 36005025300,LI - Ongoing Displacement of Low- Income Households
-36047051400,LI - At Risk of Gentrification
+36047051400,LI - Not Losing Low-Income Households
 36081052500,MHI - Advanced Gentrification
 36047008200,LI - At Risk of Gentrification
 36047026200,MHI - Not Losing Low-Income Households
@@ -3688,7 +3688,7 @@ GEOID,Typology
 36059414501,LI - Not Losing Low-Income Households
 36061012500,MHI - Advanced Gentrification
 36103111804,MHI - At Risk of Exclusion
-36047043400,LI - At Risk of Gentrification
+36047043400,LI - Not Losing Low-Income Households
 36059411600,MHI - Displacement of LI hh - Ongoing Exclusion
 36085022300,LI - Ongoing Displacement of Low- Income Households
 36005002500,LI - Not Losing Low-Income Households
@@ -3701,7 +3701,7 @@ GEOID,Typology
 36047004100,MHI - Displacement of LI hh - Ongoing Exclusion
 36103111002,LI - Not Losing Low-Income Households
 36005036100,LI - Not Losing Low-Income Households
-36005039902,LI - At Risk of Gentrification
+36005039902,LI - Not Losing Low-Income Households
 36047006200,MHI - Advanced Gentrification
 36047019800,MHI - At Risk of Exclusion
 36047029000,MHI - Displacement of LI hh - Ongoing Exclusion
@@ -3723,7 +3723,7 @@ GEOID,Typology
 36087012600,MHI - At Risk of Exclusion
 36103111001,MHI - Displacement of LI hh - Ongoing Exclusion
 36103146705,MHI - At Risk of Exclusion
-36119003000,LI - At Risk of Gentrification
+36119003000,LI - Not Losing Low-Income Households
 09001010700,LI - Not Losing Low-Income Households
 09001022000,LI - Not Losing Low-Income Households
 09001042500,MHI - At Risk of Exclusion
@@ -3764,7 +3764,7 @@ GEOID,Typology
 09005360300,LI - Not Losing Low-Income Households
 09009125300,LI - Not Losing Low-Income Households
 09009140800,LI - Not Losing Low-Income Households
-09009141600,LI - At Risk of Gentrification
+09009141600,LI - Not Losing Low-Income Households
 09009150800,MHI - Displacement of LI hh - Ongoing Exclusion
 09009154800,MHI - At Risk of Exclusion
 09009165200,MHI - At Risk of Exclusion
@@ -3996,7 +3996,7 @@ GEOID,Typology
 09009170700,LI - Not Losing Low-Income Households
 09009170900,LI - Not Losing Low-Income Households
 09009171200,MHI - Displacement of LI hh - Ongoing Exclusion
-09009171500,LI - At Risk of Gentrification
+09009171500,LI - Not Losing Low-Income Households
 09009171700,MHI - At Risk of Exclusion
 09009175500,MHI - At Risk of Exclusion
 09009175800,MHI - Displacement of LI hh - Ongoing Exclusion
