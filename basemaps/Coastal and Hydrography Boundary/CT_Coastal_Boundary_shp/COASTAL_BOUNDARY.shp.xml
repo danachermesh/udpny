@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20061204</CreaDate>
+		<CreaTime>22324900</CreaTime>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncDate>20120126</SyncDate>
+		<SyncTime>14560800</SyncTime>
+		<ModDate>20120126</ModDate>
+		<ModTime>14560800</ModTime>
+		<MetaID>{BC15A615-50BB-4353-9D0C-202264D280CC}</MetaID><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20061205" Time="102742">CopyFeatures F:\GeoData\Coast\geodatabase\coastal.mdb\Coastal_Boundary "Database Connections\depdbs11@dep.sde\depgis.DEP.Coastal_Boundary" DEPVECTORSTATIC 10000 0 0</Process><Process Name="CopyFeatures_24" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20081215" Time="154826">CopyFeatures "Database Connections\10.18.8.94.depgis@DEP.sde\depgis.DEP.COASTAL_BOUNDARY" "Database Connections\062174-svr.depgis@DEP.sde\depgis.DEP.COASTAL_BOUNDARY" DEPFEATURESTATIC 0 0 0</Process><Process ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20120126" Time="145609">CopyFeatures "Database Connections\10.18.8.60.depgis@DEP_92dc.sde\depgis.DEP.COASTAL_BOUNDARY" Y:\GIS_Warehouse\public_data\Shapefile_format\Environmental\Coastal_Resource_Mgmt\COASTAL_BOUNDARY.shp # 0 0 0</Process></lineage><itemProps><itemName Sync="TRUE">COASTAL_BOUNDARY</itemName><imsContentType Sync="TRUE">002</imsContentType><itemSize Sync="TRUE">0.000</itemSize><itemLocation><linkage Sync="TRUE">file://\\depnb100\GISDATA\GIS_Warehouse\public_data\Shapefile_format\Environmental\Coastal_Resource_Mgmt\COASTAL_BOUNDARY.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><coordRef><type Sync="TRUE">Projected</type><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><csUnits Sync="TRUE">Linear Unit: Foot_US (0.304801)</csUnits><projcsn Sync="TRUE">NAD_1983_StatePlane_Connecticut_FIPS_0600_Feet</projcsn><peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_StatePlane_Connecticut_FIPS_0600_Feet&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,999999.999996],PARAMETER[&amp;quot;False_Northing&amp;quot;,499999.999998],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-72.75],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,41.2],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,41.86666666666667],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,40.83333333333334],UNIT[&amp;quot;Foot_US&amp;quot;,0.3048006096012192],AUTHORITY[&amp;quot;EPSG&amp;quot;,2234]]&lt;/WKT&gt;&lt;XOrigin&gt;-119756300&lt;/XOrigin&gt;&lt;YOrigin&gt;-96342500&lt;/YOrigin&gt;&lt;XYScale&gt;37294945.500735737&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.0032808333333333335&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;2234&lt;/WKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml></coordRef></DataProperties></Esri>
+	<idinfo>
+		<native>These data are maintained by the State of Connecticut using ArcGIS software developed by Environmental Systems Research Institute (ESRI) in a Microsoft Windows operating system environment.</native>
+		<descript>
+			<langdata Sync="TRUE">en</langdata>
+			<abstract>The Coastal Boundary layer is a 1:24,000-scale, polygon feature-based layer of the legal mylar-based maps adopted by the Commissioner of the Department of Environmental Protection (DEP) (i.e., maps were adopted on a town by town basis) showing the extent of lands and coastal waters as defined by Connecticut General Statute (C.G.S.) 22a-93(5)) within Connecticut's coastal area (defined by C.G.S. 22a-94(c)). The coastal boundary is a hybrid of the original 1:24,000 version maps prepared by DEP consistent with C.G.S. 22a-94(d) (Coastal Area) and the revised boundary mapping undertaken by twenty-two coastal towns prepared pursuant to C.G.S. 22a-94(f). This layer therefore does not replace the legal maps and may not be used for legal determinations.  
+
+The Coastal Boundary layer includes a single polygon feature that represents the coastal boundary.  No other features are included in this layer.  Data is compiled at 1:24,000 scale.  Attribute information is comprised of an Av_Legend attribute and a CoastB_Flg attribute to denote the coastal boundary.  Other attributes include automatically calculated Shape_Length and Shape_Area fields.  This data is not updated.
+
+Any regulated activity conducted within the coastal boundary by a municipal agency (i.e., plans of development, zoning regulations, municipal coastal programs and coastal site plan review (i.e., site plans submitted to zoning commission, subdivision or resubdivision plans submitted to planning commission, application for special permit or exception to the zoning or planning commissions or zoning board of appeals, variance submitted to zoning board of appeals and a referral of a municipal project)) must be conducted in a manner consistent with the requirements of the Connecticut Coastal Management Act (CMA; C.G.S. 22a-90 to 22a-113).  As the Coastal Boundary is a hybrid of the Coastal Area, all state and federal agency activities must be consistent with the requirements of the CMA.
+
+As defined in C.G.S. 22a-94(b) the coastal boundary is a "continuous line delineated on the landward side by the interior contour elevation of the one hundred year frequency coastal flood zone, as defined and determined by the National Flood Insurance Act, as amended (USC 42 Section 4101, P.L. 93-234), or a one thousand foot linear setback measured from the mean high water mark in coastal waters, or a one thousand foot linear setback measured from the inland boundary of tidal wetlands mapped under section 22a-20, whichever is farthest inland; and shall be delineated on the seaward side by the seaward extent of the jurisdiction of the state."
+
+The original boundary maps were created in 1979 on stable mylar overlay using the 1:24,000-scale US Geological Survey topographic quadrangle maps (mylar film format). The source for tidal wetland maps were the legal 1:24,000 maps (mylar format) adopted by the Commissioner of DEP and transformed to 1:24,000 mylar-scale maps by the Office of Policy and Management (OPM) using an accurate pantograph. OPM similarly converted FEMA's flood insurance maps (various scales) to a 1:24,000 mylar overlay. The inland extent of coastal waters was plotted on 1:24,000 USGS topographic maps following the procedures and sources described in The Boundary Between Saltwater and Freshwater in Connecticut, December 1978 prepared by the State of Connecticut, Department of Environmental Protection, Coastal Area Management Program.
+
+The following twenty-two towns have adopted municipal coastal boundaries: Chester, Clinton, Darien, Deep River, East Haven, Essex, Fairfield, Greenwich, Groton, Guilford, Hamden, Ledyard, Madison, Milford, New Haven, New London, North Haven, Norwalk, Old Lyme, Old Saybrook, Stamford and Waterford. The coastal boundary maps for these towns may be at different scales than the original DEP draft maps and may contain minor adjustments to the boundary as permitted in C.G.S. 22a-94(f).</abstract>
+			<purpose>The Coastal Boundary layer is 1:24,000-scale data. It shows the extent of lands and coastal waters as defined by C.G.S. 22a-93(5) within Connecticut's coastal area (defined by C.G.S. 22a-94(c)).  Use this layer to show the Coastal Boundary on maps with other 1:24,000-scale data such as Coastal Area, Town Boundaries, Roads and Trails, Airports, Railroads and other base map data derived from the USGS 7.5 Minute Quadrangle Maps and compiled at a 1:24,000 scale.  Not intended for maps printed at map scales greater or more detailed than 1:24,000 scale (1 inch = 2,000 feet.)</purpose>
+		</descript>
+		<citation>
+			<citeinfo>
+				<pubdate>1995</pubdate>
+				<title>Coastal Boundary</title>
+				<ftname Sync="TRUE">depgis.DEP.COASTAL_BOUNDARY</ftname>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.ct.gov/deep</onlink>
+				<pubinfo>
+					<pubplace>Hartford, Connecticut, USA</pubplace>
+					<publish>State of Connecticut, Department of Environmental Protection</publish>
+				</pubinfo>
+				<origin>State of Connecticut, Department of Environmental Protection (data compiler, editor and publisher)</origin>
+				<othercit>Except for periodic corrections, this layer includes information that is relatively static and does not change over time.  The 1999 Edition is in the Connecituct State Plane Coordinate System of 1983 (NAD83).  </othercit>
+				<edition>1999</edition>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>publication date</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>1995</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-73.667761</westbc>
+				<eastbc Sync="TRUE">-71.825910</eastbc>
+				<northbc Sync="TRUE">41.543944</northbc>
+				<southbc Sync="TRUE">40.950466</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc Sync="TRUE">748756.063000</leftbc>
+				<rightbc Sync="TRUE">1252976.750000</rightbc>
+				<bottombc Sync="TRUE">544018.813000</bottombc>
+				<topbc Sync="TRUE">758921.125000</topbc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Coastal Boundary</themekey>
+				<themekey>Connecticut Coastal Management Act</themekey>
+				<themekey>Coastal Area</themekey>
+				<themekey>Long Island Sound</themekey>
+				<themekey>Coastal Regulations</themekey>
+			</theme>
+			<place>
+				<placekt>U.S. Department of Commerce, 1987, Codes for the Identification of the States, the District of Columbia and the Outlying Areas of The United States, and Associated Areas (Federal Information Processing Standard 5-2): Washington, DC, National Institute of Standards and Technology.</placekt>
+				<placekey>Connecticut</placekey>
+				<placekey>CT</placekey>
+			</place>
+			<place><placekey>United States of America</placekey><placekt>U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of Special Sovereignty, and Their Principal Administrative Divisions (Federal Information Processing Standard (FIPS) 10-4): Washington, D.C., National Institute of Standards and Technology.</placekt><placekey>USA</placekey></place><place><placekt>None</placekt><placekey>Long Island Sound</placekey></place><theme><themekt>ISO 19115 Topic Category</themekt><themekey>boundaries</themekey></theme></keywords>
+		<accconst>None. The data is in the public domain and may be redistributed.</accconst>
+		<useconst>None. No restrictions or legal prerequisites for using the data.  Note:  the data is not intended for maps printed at map scales greater or more detailed than 1:24,000 scale (1 inch = 2,000 feet.)  Once acquired, any modification made to the data must be noted in the metadata. When printing this information on a map or using it in a software application, analysis, or report, please acknowledge the State of Connecticut, Department of Environmental Protection as the source for this information.</useconst>
+		<natvform Sync="TRUE">SDE Feature Class</natvform>
+		<ptcontac>
+			<cntinfo>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>79 Elm Street</address>
+					<city>Hartford</city>
+					<state>Connecticut</state>
+					<postal>06106-5127</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>860-424-3034</cntvoice>
+				<cntfax>860-424-4054</cntfax>
+				<cntemail>dep.gisdata@ct.gov</cntemail>
+				<hours>Monday to Friday, 08:30 to 16:30 Eastern Standard Time</hours>
+				<cntorgp>
+					<cntorg>State of Connecticut, Department of Environmental Protection</cntorg>
+				</cntorgp>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>http://www.cteco.uconn.edu/metadata/dep/browsegraphic/coastalboundaryfullview.gif</browsen>
+			<browsed>Full view of Coastal Boundary</browsed>
+			<browset>GIF</browset>
+		</browse>
+		<browse><browsen>http://www.cteco.uconn.edu/metadata/dep/browsegraphic/coastalboundarydetailview.gif</browsen><browsed>Detail view of Coastal Boundary</browsed><browset>GIF</browset></browse></idinfo>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcGIS 10.0.3.3600</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="en"/>
+			<countryCode value="US" Sync="TRUE"></countryCode></dataLang>
+		<idCitation>
+			<resTitle Sync="TRUE">COASTAL_BOUNDARY</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"/>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="001"/>
+		</spatRpType>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL Sync="TRUE">748756.063</westBL>
+					<eastBL Sync="TRUE">1252976.75</eastBL>
+					<northBL Sync="TRUE">758921.125</northBL>
+					<southBL Sync="TRUE">544018.813</southBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<geoBox esriExtentType="decdegrees">
+			<westBL Sync="TRUE">-73.667761</westBL>
+			<eastBL Sync="TRUE">-71.82591</eastBL>
+			<northBL Sync="TRUE">41.543944</northBL>
+			<southBL Sync="TRUE">40.950466</southBL>
+			<exTypeCode Sync="TRUE">1</exTypeCode>
+		</geoBox>
+	</dataIdInfo>
+	<metainfo>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metc>
+			<cntinfo>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Hartford</city>
+					<state>Connecticut</state>
+					<postal>06106-5127</postal>
+					<address>79 Elm Street</address>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>860-424-3540</cntvoice>
+				<cntfax>860-424-4058</cntfax>
+				<cntemail>dep.gisdata@ct.gov</cntemail>
+				<hours>Monday to Friday, 08:30 to 16:30 Eastern Standard Time</hours>
+				<cntorgp>
+					<cntorg>State of Connecticut, Department of Environmental Protection</cntorg>
+					<cntper>Jacqueline Mickiewicz, Rosemary Malley, Kevin O'Brien</cntper>
+				</cntorgp>
+			</cntinfo>
+		</metc>
+		<metd Sync="TRUE">20120119</metd>
+	</metainfo>
+	<mdLang>
+		<languageCode Sync="TRUE" value="en"/>
+		<countryCode value="US" Sync="TRUE"></countryCode></mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="004"/>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"/>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<distinfo>
+		<resdesc>Coastal Boundary</resdesc>
+		<stdorder>
+			<fees>An online copy of the data may be accessed without charge.</fees>
+			<digform>
+				<digtinfo>
+					<formname>Shapefile, Feature Class</formname>
+					<formvern>ArcGIS</formvern>
+					<filedec>Zip file</filedec>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://www.ct.gov/deep</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+		</stdorder>
+		<distrib>
+			<cntinfo>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>79 Elm Street</address>
+					<city>Hartford</city>
+					<state>Connecticut</state>
+					<postal>06106-5127</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>860-424-3540</cntvoice>
+				<cntfax>860-424-4058</cntfax>
+				<cntemail>dep.gisdata@ct.gov</cntemail>
+				<cntorgp>
+					<cntorg>State of Connecticut, Department of Enviromental Protection</cntorg>
+				</cntorgp>
+				<hours>Monday to Friday, 08:30 to 16:30 Eastern Standard Time</hours>
+			</cntinfo>
+		</distrib>
+		<custom>The data distributor does not provide custom GIS analysis or mapping services. Data is available in a standard format and may be converted to other formats, projections, coordinate systems, or selected for specific geographic regions by the party receiving the data.</custom>
+		<techpreq>Geographic information sytem (GIS), computer-aided drawing or other mapping software is necessary to display, view and access the information.</techpreq>
+	</distinfo>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<orDesc Sync="TRUE">002</orDesc>
+					<linkage Sync="TRUE">Server=10.18.8.60; Service=sde92:sqlserver:10.18.8.60; Database=depgis; User=coastaledit; Version=sde.DEFAULT</linkage>
+					<protocol Sync="TRUE">ArcSDE Connection</protocol>
+				</onLineSrc>
+				<transSize Sync="TRUE">0.280</transSize>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">SDE Feature Class</formatName>
+			</distorFormat>
+		</distributor>
+		<distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<indspref>State of Connecticut, United States of America</indspref>
+		<ptvctinf><esriterm><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo>
+	<spref>
+		<horizsys>
+			<cordsysn>
+				<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+				<projcsn Sync="TRUE">NAD_1983_StatePlane_Connecticut_FIPS_0600_Feet</projcsn>
+			</cordsysn>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<plandu Sync="TRUE">survey feet</plandu>
+					<coordrep>
+						<absres Sync="TRUE">0.000250</absres>
+						<ordres Sync="TRUE">0.000250</ordres>
+					</coordrep>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+		</horizsys>
+		<vertdef><altsys><altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc><altres Sync="TRUE">1.000000</altres></altsys></vertdef></spref>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode Sync="TRUE" value="2234">NAD_1983_StatePlane_Connecticut_FIPS_0600_Feet</identCode>
+				<idCodeSpace Sync="TRUE">EPSG</idCodeSpace><idVersion Sync="TRUE">7.4.1</idVersion></refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep><geometObjs Name="COASTAL_BOUNDARY"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo>
+	<eainfo>
+		<detailed Name="COASTAL_BOUNDARY">
+			<enttyp>
+				<enttypl>Coastal Boundary</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">0</enttypc>
+				<enttypd>Coastal Boundary represented as a single polygon</enttypd>
+			</enttyp>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl Sync="TRUE">ACREAGE</attrlabl>
+				<attalias Sync="TRUE">ACREAGE</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">17</attwidth>
+				<attrdef>Area of feature in internal units (acres).  Values must be recalculated after feature is edited.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">16</atprecis><attscale Sync="TRUE">5</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">AREA_SQMI</attrlabl>
+				<attalias Sync="TRUE">AREA_SQMI</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">17</attwidth>
+				<attrdef>Area of feature in internal units (square miles).</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">16</atprecis><attscale Sync="TRUE">5</attscale></attr>
+			<attr><attrlabl Sync="TRUE">SHAPE</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr>
+				<attrlabl Sync="TRUE">LENGTH_MI</attrlabl>
+				<attalias Sync="TRUE">LENGTH_MI</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">17</attwidth>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdef>Length of perimeter of feature in miles.  Values must be recalculated after feature is edited.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<atprecis Sync="TRUE">16</atprecis><attscale Sync="TRUE">5</attscale></attr>
+			<attr><attrlabl Sync="TRUE">STATUS</attrlabl><attalias Sync="TRUE">STATUS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SHAPE_area</attrlabl><attalias Sync="TRUE">SHAPE_area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">SHAPE_len</attrlabl><attalias Sync="TRUE">SHAPE_len</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed>
+		<overview>
+			<eaover>Information encoded about the Coastal Boundary is limited.  Use the Av_Legend attribute to denote the coastal boundary.  The COASTB_FLG attribute also designates the coastal boundary and is represented by a "T" (True) value.  The remaining attributes are software generated and include unique identification number (ObjectID), area (Shape_Area), and length (Shape_Length) attributes.</eaover>
+		</overview>
+	</eainfo>
+	<mdDateSt Sync="TRUE">20120126</mdDateSt>
+	<dataqual>
+		<posacc>
+			<horizpa>
+				<horizpar>The horizontal positional accuracy of this data complies with the United States National Map Accuracy Standards for 1:24,000 scale maps. According to this standard, not more than 10 percent of the locations tested are to be in error by more than 1/50 inch (40 feet) measured on the publication scale of a USGS 7.5 minute topographic quadrangle map. </horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdesc>Feature digitizing and attribution (digitizing tablet method) - Using ESRI ArcInfo software, features were digitized by registering the source map to the digitizing tablet and using the crosshairs of the digitizer's mouse to manually draft coastal boundary lines on the map. The corners of the USGS 7.5 minute topographic quadrangle maps are used as registration points and are depicted on the source map. The source map was registered to the digitizing tablet by digitizing (entering) the locations of four quadrangle corner registration points shown on the map.  Feature corrections and details regarding quality assurance and control are unknown for this layer.</procdesc>
+				<procsv>ArcInfo</procsv>
+				<procdate>Early 1990's</procdate>
+				<srcprod>Source 2 - Coastal Boundary Layer</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>State of Connecticut, Department of Environmental Protection</cntorg>
+							<cntper>Unknown</cntper>
+						</cntorgp>
+					</cntinfo>
+				</proccont>
+				<srcused>Source 1 - Coastal Boundary Mylars</srcused>
+			</procstep>
+			<srcinfo>
+				<srcscale>24,000</srcscale>
+				<typesrc>stable-base material</typesrc>
+				<srccitea>Source 1 - Coastal Boundary Mylars</srccitea>
+				<srccontr>Delineates the coastal boundary as defined by C.G.S. 22a-94(c).  The stable-base material used were mylar copies of the USGS 7.5 minute quadrangle maps upon which the coastal boundary was hand drawn.  Incorporated onto these maps are municipal coastal boundaries for 22 towns that chose to revise the original state coastal boundary.  When the scale of the individual municipal maps differed from 1:24000, they were converted to a 24,000 scale and hand drawn onto the above referenced mylar copies.</srccontr>
+				<srccite>
+					<citeinfo>
+						<title>Coastal Boundary Mylars</title>
+						<origin>State of Connecticut, Department of Environmental Protection</origin>
+						<pubdate>1995</pubdate>
+						<pubinfo>
+							<publish>State of Connecticut, Department of Environmental Protection</publish>
+						</pubinfo>
+						<edition>1995</edition>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1979</begdate>
+							<enddate>1985</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<procstep>
+				<procdesc>Datum conversion - In 1999, using ESRI ArcInfo software, the Coastal Boundary layer was converted from the Connecticut State Plane Coordinate System of 1927 (NAD27) to the Connecticut State Plane Coordinate System of 1983 (NAD83). The NADCON (North American Datum CONversion) data transformation was used.  The Coastal Boundary layer was subsequently converted from ESRI Coverage format to ESRI Shapefile format.  </procdesc>
+				<srcused>Source 2 - Coastal Boundary Layer</srcused>
+				<date Sync="TRUE">20050203</date>
+				<time Sync="TRUE">15454800</time>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntorg>State of Connecticut, Department of Environmental Protection</cntorg>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+				<procsv>ArcInfo</procsv>
+				<procdate>1999</procdate>
+				<srcprod>Source 2 - Coastal Boundary Layer</srcprod>
+			</procstep>
+			<srcinfo>
+				<srcscale>24,000</srcscale>
+				<typesrc>disc</typesrc>
+				<srccitea>Source 2 - Coastal Boundary Layer, Shapefile</srccitea>
+				<srccontr>Delineates the Coastal Boundary as defined in C.G.S. 22a-93(5).  This data source refers to all features combined in one statewide layer. Since initial publication in 1995, a subsequent edition of the layer was generated by the State of Connecticut in order to convert from the Connecticut State Plane Coordinate System of 1927 (NAD27) to the Connecticut State Plane Coordinate System of 1983 (NAD83).  Changes made to the entire layer are reflected in metadata process steps where this particular data source is cited as both the Source Used and the Source Produced.</srccontr>
+				<srccite>
+					<citeinfo>
+						<title>Coastal Boundary Layer</title>
+						<origin>State of Connecticut, Department of Environmental Protection</origin>
+						<pubdate>1995</pubdate>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1995</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+		</lineage>
+		<complete>The Coastal Boundary layer is complete in the sense that it accurately reflects the coastal boundary as defined in Connecticut General Statutes 22a-93(5).  This data is not updated.</complete>
+		<logic>This layer consists of a single polygon.  Polygon features conform to the following topological rules. Polygons are single part. There are no duplicate polygons. Polygons do not self overlap. Polygons do not overlap other polygons. Logical consistency testing methods are unknown.</logic>
+		<attracc>
+			<attraccr>There is only one polygon feature in the Coastal Boundary layer.  The Av_Legend attribute value is "In coastal boundary", CoastB_Flg holds the value of "T" (True for coastal boundary), and the Shape_Area and Shape_Length attribute values are automatically calculated.  The attributes have valid values.</attraccr>
+		</attracc>
+	</dataqual>
+</metadata>
